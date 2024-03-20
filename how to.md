@@ -1,0 +1,12 @@
+# как выполнять 4 задание
+- установить sublime merge https://www.sublimemerge.com/
+- установить obsidian 
+- зайти черенз браузер в репрозиторий https://github.com/DaniilShaihutdinov/zadanie-4.git
+- скопировать адрес репрозитория ctrl c
+- запустить sublime merge и клонировать репрозиторий
+- ![[Pasted image 20240320135358.png]]
+- запустить обсидиан и открыть папку с репрозиторием как хранилище 
+- ![[Pasted image 20240320135737.png]]
+- используя обсидиан наполнить репозиторий лекциями и материалами
+- открыть sublime merge сделать stage, commit и push
+- ![[Pasted image 20240320140540.png]]
